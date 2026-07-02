@@ -1,0 +1,66 @@
+Project Kickoff Meeting
+
+Date: July 2, 2026
+Time: 10:00 AM
+
+Attendees:
+
+Zenitsu
+Tanjiro
+Zoro
+Luffy
+Light
+
+Agenda:
+- Finalize project architecture
+- Assign responsibilities
+- Select technology stack
+- Define project timeline
+
+Discussion:
+
+Zenitsu will develop the frontend using React.
+
+Tanjiro will build the backend APIs using FastAPI.
+
+Zoro will prepare automated testing using PyTest.
+
+Luffy will configure Docker and deployment.
+
+Light will design the PostgreSQL database.
+
+The team agreed to use:
+- Python
+- FastAPI
+- React
+- Streamlit
+- PostgreSQL
+- Docker
+- Ollama
+
+Action Items:
+
+Zenitsu
+- Finish UI by July 12.
+
+Tanjiro
+- Develop authentication APIs.
+
+Zoro
+- Prepare testing plan.
+
+Luffy
+- Configure Docker.
+
+Light
+- Complete database schema.
+
+Decisions:
+
+- Weekly meetings every Friday.
+- Final deadline: July 30.
+- GitHub will be used for version control.
+- Docker for deployment.
+
+Next Meeting:
+July 9, 2026
