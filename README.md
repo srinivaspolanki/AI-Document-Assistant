@@ -105,7 +105,7 @@ AI-Document-Assistant/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Document-Assistant.git
+git clone https://github.com/srinivaspolanki/AI-Document-Assistant.git
 ```
 
 Go to the project
